@@ -106,5 +106,22 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction
+	title="Start creating winning ads in minutes"
+	subtitle="Join 100,000+ entrepreneurs"
+	description="While your competitors wait days and pay $300+ per UGC video, you could be testing dozens of variations with photorealistic AI actors that have already generated 720M impressions. The marketers who scale fastest are the ones who test fastest."
+	imageSrc="/generated/image-a-cheerful-performance-marketer-celebrat.webp"
+	callsToAction={[
+		{
+			href: "#",
+			label: "Start creating ads",
+			variant: "primary"
+		},
+		{
+			href: "#",
+			label: "See AI actors in action",
+			variant: "secondary"
+		}
+	]}
+/>

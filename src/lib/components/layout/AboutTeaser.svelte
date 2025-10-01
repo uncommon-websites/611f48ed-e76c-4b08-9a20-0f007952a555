@@ -23,7 +23,7 @@ A minimalist teaser for the about page.
 	const teamMember: TeamMember = {
 		name: "Alex Morgan",
 		role: "Founder & CEO",
-		image: "https://www.unc.mn/image-placeholder.svg"
+		image: "/generated/image-professional-headshot-of-a-founder-in-a-.webp"
 	};
 </script>
 
@@ -32,7 +32,7 @@ A minimalist teaser for the about page.
 		<div class="relative mx-auto grid max-w-2xl place-items-center gap-16">
 			<ScrollText
 				class="text-title1 text-center"
-				text={`"We're building the future of digital experiences, crafting innovative solutions that transform how people interact with technology in their everyday lives"`}
+				text={`"I watched performance marketers burn through budgets waiting on creators while their competitors tested faster. We built Arcads because every day you can't test is a day someone else finds the winning ad first. Speed isn't just convenient—it's the difference between growth and being left behind."`}
 			/>
 
 			<!-- Team Member & CTA Section -->
