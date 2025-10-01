@@ -42,54 +42,67 @@
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Priya Mehta",
+			position: "Head of Growth",
+			company: "NutriFlow",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"We slashed our ad production costs by 87% while testing 3x more creative variations. What used to take us $2,400 and two weeks now costs $300 and happens in minutes. Our Meta ROAS improved by 42% because we can finally test at scale.",
+			image: "/generated/image-confident-headshot-of-a-professional-asi.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Marcus Washington",
+			position: "Performance Marketing Lead",
+			company: "FitTrack Studios",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Before Arcads, hiring UGC creators was our biggest bottleneck. Now we generate 40+ ad variations weekly with their AI actors and our view rates jumped 68%. The multilingual support helped us expand into Spanish markets without additional production costs.",
+			image: "/generated/image-confident-headshot-of-a-professional-bla.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Carmen Rodriguez",
+			position: "Acquisition Director",
+			company: "LearnHub",
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"The time savings are remarkable. We went from 5 days and $500 per video to 15 minutes and $50. Our TikTok campaigns now run with 25+ creative variants, and we've seen conversion rates increase by 31%. The AI actors genuinely outperform traditional creators.",
+			image: "/generated/image-confident-headshot-of-a-professional-his.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Built for performance marketers who need results"
+	subtitle="Everything you need to scale ad creative production and beat rising acquisition costs"
 	features={[
 		{
-			title: "Streamlined Workflows",
+			title: "1,000+ photorealistic AI actors",
 			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+				"Choose from a massive library of hyper-realistic AI actors who can hold products, show apps, and wear clothing. No more waiting days for UGC creators or paying $300+ per video."
 		},
 		{
-			title: "Data Analysis",
+			title: "10% of traditional production costs",
 			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+				"Generate performance-ready video ads at a fraction of what you'd pay creators or production studios. Scale your testing budget to create dozens of variations instead of just a few."
 		},
 		{
-			title: "Secure Collaboration",
+			title: "Minutes instead of days",
 			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+				"Go from concept to finished ad in minutes, not the days or weeks traditional production requires. Launch campaigns faster and capitalize on trending opportunities immediately."
+		},
+		{
+			title: "30+ languages for global reach",
+			description:
+				"Expand into new markets instantly with accurate translation and native-sounding voice synthesis. One creative becomes dozens of localized ads without hiring international creators."
+		},
+		{
+			title: "Rapid testing at scale",
+			description:
+				"Test dozens of ad variations weekly to find winning combinations and beat your competitors. Full emotion control through text prompts means infinite creative possibilities."
+		},
+		{
+			title: "Proven at 720M impressions monthly",
+			description:
+				"Join 100,000+ entrepreneurs generating real results with an average +70% view increase and +13% conversion lift. Our AI actors have already driven $4M in customer revenue."
 		}
 	]}
 />
