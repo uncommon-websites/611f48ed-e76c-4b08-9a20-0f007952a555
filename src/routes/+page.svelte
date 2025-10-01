@@ -10,12 +10,30 @@
 </script>
 
 <Hero
-	title="Elevate your business with thoughtful design"
-	subtitle="Solutions that enhance user experience, and improve visual communication."
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
-	generating
+	centered={false}
+	title="Create winning ads with AI actors in minutes"
+	subtitle="Transform your ad creative production with 1,000+ photorealistic AI actors. Generate performance-ready video ads at 10% of traditional costs and scale to 720M monthly impressions."
+	imageSrc="/generated/image-a-performance-marketer-with-a-joyful-exp.webp"
+	callsToAction={[
+		{
+			href: "#",
+			label: "Start creating ads"
+		},
+		{
+			href: "#",
+			label: "View AI actors"
+		}
+	]}
 />
-<LogoScroller label="" generating />
+<LogoScroller
+	label="Trusted by leading brands"
+	logoUrls={[
+		'https://cdn.brandfetch.io/headway.io/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/asana.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/clickfunnels.com/w/400/h/400/logo',
+		'https://cdn.brandfetch.io/bendingspoons.com/w/400/h/400/logo'
+	]}
+/>
 
 <Summary
 	generating
